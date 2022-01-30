@@ -1,0 +1,182 @@
+RecordCount: 322
+
+console load DreamBlockContest2021/1-Submissions/xolimono
+   1
+
+#Start
+ 190
+
+#lvl_start
+  31,R,Z
+   4,R,J
+   6,R,K
+  37,R,D
+   5,R
+  15,R,Z
+   1,R
+  15,R,Z
+  12,R
+   6,R,J
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_a-01
+   7,R,D,X
+   1,R,J
+   2,R
+  23,R,Z
+   4,R,J
+   1,R,K
+  37,R,X
+  14,U,C
+   9,R,J
+  15,U,X
+  77,R,C
+  48,R,D,X
+  19,R,D,C
+   4,R,J
+   7,R,X
+   8,R,J
+   8,R
+   8,R,J
+   3,K
+   6,R,Z
+   2,R,J
+  40
+
+#lvl_a-01
+   6,R,J
+   1,R,K,G
+  14,R,D,X
+   1,R,J
+  29,R,X
+   4,R,J
+  76,R,K
+   4,R,D
+  24,R,Z
+   4,R,J
+   2,R,K
+  10,R
+  60,R,U,X
+  24,R,D,C
+   1,R,J
+   9,R,U,X
+   4,R,J,G
+   2,R
+  40
+
+#lvl_a-03
+  14,R,Z
+   1,R,J
+  11,R,D,X
+   3,R,J
+  13,R,K,G
+   1,R,J,G
+   2,R
+  34,R,Z
+   4,R,J
+   5,R,K
+  12,R
+  19,R,X
+   4,R,J
+   9,R,K
+  55,R
+  15,R,U,Z
+  33,D
+   7
+  15,R,Z
+   7,D
+   2,R,J
+   6,R,Z
+   1,R,J
+   5,R
+  40
+
+#lvl_a-04
+   2,R
+   1,R,J
+  14,R,D,X
+   8,R,J
+  49,R
+  24,R,X
+   4,R,J
+  10,R,K
+  14,U,X
+   2,L,J
+  18,D
+  30,R,D
+  61,R
+  60,U,X
+  90,R,D
+  11,R
+  14,U,Z
+  13,R,J
+  32,U,X
+   5,L,Z
+  43,R,J
+  28,R,D,X
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   9,R,D,X
+  40
+
+#lvl_a-05
+   1,R,J
+   7,R
+   7,R,J
+  14,R,Z
+   1,R,J
+  21,R,D,X
+   4,R,J
+   1,R,K
+  13,R,U,X
+  98,R
+  15,R,D,C
+   6,R
+   9,L
+  30,U,X
+   8,L
+   1,J,G
+   6,R,J
+  21,R,D
+  19,R,Z
+   4,J
+  12,K
+   6,L
+  12,D
+  22,R,X
+   4,L,G
+   1,J
+  16,D,X
+  10,L,Z
+   5,R,J
+  28,R,X
+   4,R,J
+   4,R,K
+  15,R,D,X
+   1,R,J
+   8,R
+   2,R,J
+  14,R,D,X
+   1,R,J
+   5,R
+  14,R,D,X
+   1,R,J
+   7,R
+  12,R,J
+  16,R,D,X
+   4,R,J
+   3,R,K
+  22,R,Z
+   4,R,J
+   4,R,K
+  14,R,U,X
+ 116,L,D
+  20,L,J
+#0:37.094(2182)

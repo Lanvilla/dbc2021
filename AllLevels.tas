@@ -1,0 +1,90 @@
+#To sync:
+#Use Celeste v.1.4.0.0
+#Use Dream Block Contest 2021 1.0.8
+#Use the bindings in the CelesteTAS readme
+#Turn on speedrun timer
+#Turn on show Mod Options in game
+#Change your default map to Dream Block Contest 2021
+#Start from Begin
+#Make sure map select shows up
+#Open and close Mod Options if it doesn't
+#Make sure to turn off the
+#"Display End Screen for All Maps" option
+
+Read,StartFile
+
+Read,lobby\start-ppnyan,Start
+Read,EnterLevel
+Read,levels\ppnyan,Start
+Read,ExitLevel
+
+Read,lobby\ppnyan-phrog,Start
+Read,EnterLevel
+Read,levels\phrog,Start
+Read,ExitLevel
+
+Read,lobby\phrog-quinnigan,Start
+Read,EnterLevel
+Read,levels\quinnigan,Start
+Read,ExitLevel
+
+Read,lobby\quinnigan-elissv,Start
+Read,EnterLevel
+Read,levels\elissv,Start
+Read,ExitLevel
+
+Read,lobby\elissv-oknano,Start
+Read,EnterLevel
+Read,levels\oknano,Start
+Read,ExitLevel
+
+Read,lobby\oknano-jadeturtle,Start
+Read,EnterLevel
+Read,levels\jadeturtle,Start
+Read,ExitLevel
+
+Read,lobby\jadeturtle-theonlymrcat,Start
+Read,EnterLevel
+Read,levels\theonlymrcat,Start
+Read,ExitLevel
+
+Read,lobby\theonlymrcat-dilly,Start
+Read,EnterLevel
+Read,levels\dilly,Start
+Read,ExitLevel
+
+Read,lobby\dilly-ceph,Start
+Read,EnterLevel
+Read,levels\ceph,Start
+Read,ExitLevel
+
+Read,lobby\ceph-xolimono,Start
+Read,EnterLevelPostcard
+Read,levels\xolimono,Start
+Read,ExitLevel
+
+Read,lobby\xolimono-worldwaker2,Start
+Read,EnterLevel
+Read,levels\worldwaker2,Start
+Read,ExitLevel
+
+Read,lobby\worldwaker2-scribbles,Start
+Read,EnterLevel
+Read,levels\scribbles,Start
+Read,ExitLevel
+
+#restart_chapter
+***
+  36
+   1,S
+   1,U
+   1
+   1,U,J
+  32,O
+
+Read,lobby\start-heart,Start
+
+  90
+   1,J
+
+#Final: 11:34.195

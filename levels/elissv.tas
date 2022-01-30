@@ -1,0 +1,246 @@
+RecordCount: 1042
+
+console load DreamBlockContest2021/1-Submissions/elissv
+   1
+
+#Start
+  84
+
+#lvl_eliss_spire_00
+   4,Z
+   1,R,J
+   7,R
+   3,R,J
+   4,R,K,G
+  11,R,Z
+   6,R,J
+   9,R,K,G
+  15,R,D,X
+   7,R,J
+  11,R
+   1,R,J
+   5,R
+  16,R,D,X
+   1,R,J
+   9,R
+  15,R,D,C
+   1,X
+ 155,O
+
+#lvl_eliss_spire_01
+  10,R,Z
+   3,R,J
+   2,J
+  15,R,U,X
+   5
+   3,J,G
+   2,L,J
+   7,L
+   2,L,J
+  25,L,X
+  28,U,C
+   0,U,X
+   0,L,J
+  40
+
+#lvl_eliss_spire_02
+  16,L
+   1,K,G
+  33,R,U,X
+  53,L,U,C
+   4,R,J
+   1,R,K
+   8,R
+  53,D,X
+  28,R,C
+  24,R,U,X
+  35,U,C
+   4,R,J
+  10,R,D,X
+   1,R,J
+  40,L,D
+  42,L,D,X
+   4,L,J
+  11,U,X
+  39,U,C
+   6,L
+  40
+
+#lvl_eliss_spire_03
+  11,L
+  14,L,D,X
+   1,L,J
+  13,L,U,X
+   1,L,J,G
+   7,L
+   2,L,J
+  14,U,X
+  10,L,J
+   8,L,J
+   1,K,G
+   0,R,K
+   7,R
+  16,R,X
+  32,R,C
+   7,L,X
+  14,D,C
+   7,R,X
+  28,L,C
+   4,L,J
+   7,L,K
+  14,U,X
+  18,R,J
+   3,R,K,G
+  40
+
+#lvl_eliss_spire_04
+   1,R,J,G
+  10,R
+   6,R,D,X
+   1,R,J
+   7,R
+   3,R,J
+   4,R
+  22,R,U,Z
+  44,U,X
+  46,L,C
+  29,U,X
+   9,U,C
+  40
+
+#lvl_eliss_spire_04b
+  16,R
+  26,U,X
+  23,R,U,Z
+   5,L,G
+  18,L,U,X
+  30,L,U,C
+  15,L,U,X
+   1,J,G
+   7
+   5,J
+  25,U,X
+   1,J
+   2
+  15,U,C
+   7,R,J,G
+   7,R
+  13,R,Z
+   1,R,J
+   1,R
+  15,R,U,X
+   9,R
+   2,R,J
+  14,U,Z
+   3,L,J
+  40
+
+#lvl_eliss_spire_05
+  11,L
+  11,L,D,X
+   1,L,J
+   7,L
+  12,L,J
+   2,L,K,G
+  33,R,U,X
+  29,L,U,C
+  26,U,X
+   1,R,J
+  12,D,X
+  51,R,C
+  39,L,D,X
+   4,R,D,C
+  32,R,D,X
+   2,R,J
+  32,L,U,X
+  20,R,U,C
+  40,U,X
+   9,L,G
+  11,U,Z
+  40
+
+#lvl_eliss_spire_06
+   4,L
+   1,L,J,G
+   3,R,J
+   5,L,J
+  10,L,X
+  12,L,J
+   3,L,K,G
+  19,R,U,X
+  50,L,C
+  48,R,D,X
+   1,R
+  25,L,Z
+  20,R,X
+   2,L,D
+  13,L,U,X
+  33,L,U,C
+   7,R,X
+   9,R,C
+   9,R,X
+  16,D,C
+   8,L,U,X
+  12,L,U,C
+  21,R,X
+   6,L,U,C
+   4,L,U,X
+   4,R,U,C
+   4,R,U,X
+  40
+
+#lvl_eliss_spire_07
+   5,L
+   6
+ 152,U,X
+  40
+
+#lvl_eliss_spire_08
+   2,L,J
+   9,L
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   9,L
+  38,L,U,Z
+  14,R,U,C
+  26,R,D,X
+   4,R,U,C
+  18,R,U,X
+  20,R,D,C
+  24,U,X
+  12,U,C
+  13,U,X
+  21,L,U,C
+  17,D,X
+   7,L,C
+   4,L,X
+  17,L,C
+  10,U,X
+  15,R,C
+   4,L,U,X
+  11,L,U,C
+  18,R,U,X
+   4,R,C
+  23,R,X
+  37,L,C
+  18,U,X
+  44,R,C
+  24,L,X
+  18,U,C
+   7,U,X
+  40
+
+#lvl_eliss_spire_09
+  16,L,J
+  56,U,X
+   9,L
+  25,U,X
+   1,J
+  16
+   2
+  18,J
+  15,U,X
+ 136,L,D
+#0:52.241(3073)
